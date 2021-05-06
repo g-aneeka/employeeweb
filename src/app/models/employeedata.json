@@ -1,0 +1,95 @@
+{
+    "Data" : [
+    {
+    "userId":1,
+    "jobTitleName":"Bussiness Accountant",
+    "firstName":"Romin",
+    "lastName":"Irani",
+    "preferredFullName":"Romin Irani",
+    "employeeCode":"C",
+    "region":"NZ",
+    "phoneNumber":4081234567,
+    "emailAddress":"romin.k.irani@gmail.com",
+    "employeeAge":42,
+    "profileImage":"https://bit.ly/2jZ8tHS"
+    },
+    {
+    "userId":2,
+    "jobTitleName":"Developer",
+    "firstName":"Neil",
+    "lastName":"Irani",
+    "preferredFullName":"Neil Irani",
+    "employeeCode":"A",
+    "region":"CA",
+    "phoneNumber":4081111111,
+    "emailAddress":"neilrirani@gmail.com",
+    "employeeAge":18,
+    "profileImage":"https://cdn.iconscout.com/icon/free/png-512/avatar-370-456322.png"
+    },
+    {
+    "userId":3,
+    "jobTitleName":"System Analyst",
+    "firstName":"Andria",
+    "lastName":"Agustine",
+    "preferredFullName":"Andria Agustine",
+    "employeeCode":"B",
+    "region":"WZ",
+    "phoneNumber":4044111187,
+    "emailAddress":"andriaagustine@gmail.com",
+    "employeeAge":25,
+    "profileImage":"https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874f02b218fb.png"
+    },
+    {
+    "userId":4,
+    "jobTitleName":"Web Developer",
+    "firstName":"Lucy",
+    "lastName":"Marcus",
+    "preferredFullName":"Lucy Marcus",
+    "employeeCode":"C",
+    "region":"NY",
+    "phoneNumber":4088961111,
+    "emailAddress":"lucymarcus@gmail.com",
+    "employeeAge":39,
+    "profileImage":"https://brr.gov.mk/wp-content/uploads/2020/05/business-woman-icon-74.png"
+    },
+    {
+    "userId":5,
+    "jobTitleName":"Devops Engineer",
+    "firstName":"Thomas",
+    "lastName":"Roy",
+    "preferredFullName":"Thomas Roy",
+    "employeeCode":"C",
+    "region":"AE",
+    "phoneNumber":4081111201,
+    "emailAddress":"thomasroy@gmail.com",
+    "employeeAge":52,
+    "profileImage":"https://uctlanguagecentre.com/wp-content/uploads/2020/05/avatar.png"
+    },
+    {
+    "userId":6,
+    "jobTitleName":"Program Directory",
+    "firstName":"Tom",
+    "lastName":"Hanks",
+    "preferredFullName":"Tom Hanks",
+    "employeeCode":"B",
+    "region":"CA",
+    "phoneNumber":4082222222,
+    "emailAddress":"tomhanks@gmail.com",
+    "employeeAge":28,
+    "profileImage":"https://unipublicabrasil.com.br/curso-gratuito/views/assets/img/avatar/homem-6.png"
+    },
+    {
+    "userId":7,
+    "jobTitleName":"Program Manager",
+    "firstName":"Benjamin",
+    "lastName":"Criuze",
+    "preferredFullName":"Benjamin Criuze",
+    "employeeCode":"D",
+    "region":"AD",
+    "phoneNumber":4082745222,
+    "emailAddress":"benjamincruize@gmail.com",
+    "employeeAge":60,
+    "profileImage":"https://lh3.googleusercontent.com/proxy/XCF-VojIexw-fU6NLRm5tmGQI183CesgasDYw9qA5eZRrJuyGSS7NEaHftrRGP_uaWdHTklLhydDnxQM3S9_pPDAgOCLVAIW9-0Urg"
+        }
+    ]
+    }

@@ -1,0 +1,13 @@
+<!-- <p>employee-card works!</p> -->
+
+<div class="container">
+  <div class="cardbunddle" >
+    <div class="card" *ngFor='let emp of elist'>
+      <img src="{{emp.profileImage}}" alt="Avatar" style="width:180px">
+        <h4><b>{{emp.firstName}}</b></h4> 
+        <p>{{emp.jobTitleName}}</p> 
+        <button (click)= "onLoadProfile(emp.userId)">View Profile</button>
+      </div>
+  </div>   
+</div>
+

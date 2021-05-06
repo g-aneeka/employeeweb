@@ -1,0 +1,15 @@
+<!-- <p>employee-profile works!</p> -->
+
+<div class="container">
+<h1>Employee Profile</h1>
+<img src= {{details?.profileImage}} style="width: 20%;">
+<h3>Name: {{ details?.preferredFullName | uppercase }}</h3>
+<h4>Designation: {{ details?.jobTitleName }}</h4>
+<p>UserId: {{ details?.userId }}</p>
+<h4 [ngStyle]= "{ 'color': band(details?.employeeCode) }">Employee Band: {{ details?.employeeCode }}</h4>
+<p>Email Address: {{ details?.emailAddress}}</p>
+<p>Phone Number: {{ details?.phoneNumber }}</p>
+<p>Employee Age: {{ details?.employeeAge | age }}</p>
+<p>Region: {{ details?.region }}</p>
+</div>
+
