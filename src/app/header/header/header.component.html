@@ -10,14 +10,20 @@
   </head>
   <body>
 
-<nav class="navbar navbar-default">
-    <div class="container-fluid">
-      <div class="navbar-header">
-        <a class="navbar-brand" href="#">EmployeeWeb</a>
-      </div>
-      <ul class="nav navbar-nav">
+  <nav>
+    <input id="nav-toggle" type="checkbox">
+        <a class="logo" href="#">EmployeeWeb</a>
+      <ul class="links">
         <li routerLinkActive="active"><a routerLink="/home">Home</a></li>
         <li routerLinkActive="active"><a routerLink="/about">About</a></li>
+        <li routerLinkActive="active"><a routerLink="/register">Register</a></li>
       </ul>
-    </div>
+      <!-- <ul class="nav navbar-nav navbar-right">
+        <li routerLinkActive="active"><a routerLink="/register">Register</a></li>
+      </ul> -->
+    <label for="nav-toggle" class="icon-burger">
+      <div class="line"></div>
+      <div class="line"></div>
+      <div class="line"></div>
+    </label>
   </nav>

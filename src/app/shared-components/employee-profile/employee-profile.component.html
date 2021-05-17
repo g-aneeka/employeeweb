@@ -1,6 +1,6 @@
 <!-- <p>employee-profile works!</p> -->
 
-<div class="container">
+<div class="container">  
 <h1>Employee Profile</h1>
 <img src= {{details?.profileImage}} style="width: 20%;">
 <h3>Name: {{ details?.preferredFullName | uppercase }}</h3>
@@ -11,5 +11,6 @@
 <p>Phone Number: {{ details?.phoneNumber }}</p>
 <p>Employee Age: {{ details?.employeeAge | age }}</p>
 <p>Region: {{ details?.region }}</p>
+<button class="btn btn-success" (click)="GoBack()">Go Back</button>
 </div>
 

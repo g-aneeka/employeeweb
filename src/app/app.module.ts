@@ -1,5 +1,6 @@
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
+import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
@@ -10,6 +11,8 @@ import { PageNotFoundComponent } from './shared-components/page-not-found/page-n
 import { AgePipe } from './pages/pipes/age.pipe';
 import { HeaderComponent } from './header/header/header.component';
 import { AboutComponent } from './pages/about/about.component';
+import { RegisterNewformComponent } from './pages/register/register-newform/register-newform.component';
+import { ButtonHoverDirective } from './pages/directives/button-hover.directive';
 
 @NgModule({
   declarations: [
@@ -20,11 +23,14 @@ import { AboutComponent } from './pages/about/about.component';
     PageNotFoundComponent,
     AgePipe,
     HeaderComponent,
-    AboutComponent
+    AboutComponent,
+    RegisterNewformComponent,
+    ButtonHoverDirective
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

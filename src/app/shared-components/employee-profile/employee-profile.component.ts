@@ -28,6 +28,10 @@ export class EmployeeProfileComponent implements OnInit {
     this.getDetails();
   }
 
+  GoBack(){
+    window.history.back();
+  }
+
   getDetails(){
     this.details = this.eservice.getDataById(this.id);
   }
