@@ -8,7 +8,7 @@ This site is published at https://g-aneeka.github.io/employeeweb/
 
 ## Screenshots
 
-On the latest delployment, the site looks like:
+After the latest delployment, the site looks like:
 
 ![Screenshot (182)](https://user-images.githubusercontent.com/56719045/118689074-491e7b80-b824-11eb-8ff5-3719e3ccaf2c.png)
 
@@ -20,7 +20,7 @@ On the latest delployment, the site looks like:
 
 ![Screenshot (186)](https://user-images.githubusercontent.com/56719045/118689325-7c610a80-b824-11eb-99e8-920ecfbc9879.png)
 
-
+<!-----
 The first version of the app looked like:
 
 ![Screenshot (160)](https://user-images.githubusercontent.com/56719045/117357582-c23bdb80-aed2-11eb-964d-aff1c9f81509.png)
@@ -30,7 +30,7 @@ The first version of the app looked like:
 ![Screenshot (162)](https://user-images.githubusercontent.com/56719045/117357642-d2ec5180-aed2-11eb-91f3-e70a536d2332.png)
 
 ![Screenshot (163)](https://user-images.githubusercontent.com/56719045/117357654-d5e74200-aed2-11eb-80fd-58087ec2a09f.png)
-
+--->
 
 ## Development server
 
