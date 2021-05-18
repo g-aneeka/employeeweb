@@ -7,6 +7,22 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 This site is published at https://g-aneeka.github.io/employeeweb/
 
 ## Screenshots
+
+On the latest delployment, the site looks like:
+
+![Screenshot (182)](https://user-images.githubusercontent.com/56719045/118689074-491e7b80-b824-11eb-8ff5-3719e3ccaf2c.png)
+
+![Screenshot (183)](https://user-images.githubusercontent.com/56719045/118689161-589dc480-b824-11eb-92d6-db623204e430.png)
+
+![Screenshot (184)](https://user-images.githubusercontent.com/56719045/118689245-69e6d100-b824-11eb-91ec-be9f3c004014.png)
+
+![Screenshot (185)](https://user-images.githubusercontent.com/56719045/118689280-6fdcb200-b824-11eb-88cb-190cc6e92fa2.png)
+
+![Screenshot (186)](https://user-images.githubusercontent.com/56719045/118689325-7c610a80-b824-11eb-99e8-920ecfbc9879.png)
+
+
+The first version of the app looked like:
+
 ![Screenshot (160)](https://user-images.githubusercontent.com/56719045/117357582-c23bdb80-aed2-11eb-964d-aff1c9f81509.png)
 
 ![Screenshot (161)](https://user-images.githubusercontent.com/56719045/117357613-cb2cad00-aed2-11eb-9bac-3b92b47182a0.png)
